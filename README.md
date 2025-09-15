@@ -1,0 +1,1 @@
+javscript is amazing
